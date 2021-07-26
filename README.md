@@ -1,15 +1,3 @@
-<table align=center>
-  <td width=333 align=left>
-    <em>hello!</em>
-  </td>
-  <td width=334 align=center>
-    <strong>wassup</strong> ☺︎
-  </td>
-  <td width=333 align=right>
-    <em>hola!</em>
-  </td>
-</table>
-<h1 align=center> my name is <code>Chris</code></h1>
 <div align=right>
   <a href="https://linkedin.com/in/mrchristopheranderson" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrchristopheranderson" height="30" width="40" />
@@ -19,14 +7,21 @@
   </a>
   <a href="https://instagram.com/da_real_odp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="da_real_odp" height="30" width="40" /></a>
 </div>
+
 <br>
+
 <table align=center>
-  <td align=center width=1000>
-    <q>✰✰✰✰✰</q>
+  <td width=333 align=center>
+    <em>hello!</em>
+  </td>
+  <td width=334 align=center>
+    <strong>wassup</strong> ☺︎
+  </td>
+  <td width=333 align=center>
+    <em>howdy!</em>
   </td>
 </table>
-
-
+<h1 align=center> my name is <code>Chris</code></h1>
 
 <br>
 
@@ -166,6 +161,12 @@ const aboutMe = {
 </div>
 
 <br>
+
+<table align=center>
+  <td align=center width=1000>
+    <q>✰✰✰✰✰</q>
+  </td>
+</table>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mistercanderson.mistercanderson)
 
