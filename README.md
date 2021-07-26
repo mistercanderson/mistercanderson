@@ -1,15 +1,5 @@
-<h1 align="center">Howdy Partner, I'm Chris 🤠</h1>
-
-<table align=center border=0 rules=all>
-  <tr border=0>
-    <td width=auto border=0>
-      <img src="https://github-readme-stats.vercel.app/api?username=mistercanderson&show_icons=true&locale=en&theme=ayu-mirage" alt="mistercanderson github stats" />
-    </td>
-   <td width=auto valign=top border=0>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mistercanderson&show_icons=true&locale=en&layout=compact&theme=ayu-mirage" alt="mistercanderson top languages" />
-    </td>
-  </tr>
-</table>
+<h1 align=left>wazzup 🤠</h1>
+<h2>I'm Chris</h2>
 
 
 <p align="left">
@@ -17,11 +7,11 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mistercanderson&show_icons=true&locale=en&theme=ayu-mirage" alt="mistercanderson github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mistercanderson&show_icons=true&locale=en&layout=compact&theme=ayu-mirage" alt="mistercanderson top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mistercanderson&show_icons=true&locale=en&layout=compact&theme=ayu-mirage" alt="mistercanderson top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mistercanderson&show_icons=true&locale=en&theme=ayu-mirage" alt="mistercanderson github stats" />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
