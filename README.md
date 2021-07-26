@@ -15,7 +15,7 @@
     <em>hello!</em>
   </td>
   <td width=334 align=center>
-    <strong>wassup</strong> ☺︎
+    <h3>wassup ☺︎</h3>
   </td>
   <td width=333 align=center>
     <em>howdy!</em>
