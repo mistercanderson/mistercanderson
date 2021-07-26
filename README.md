@@ -21,7 +21,7 @@
     <em>howdy!</em>
   </td>
 </table>
-<h1 align=center> my name is <code>Chris</code></h1>
+<h1 align=center> my name is <code>Chris</code> 🐸</h1>
 
 <br>
 
