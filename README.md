@@ -164,7 +164,7 @@ const aboutMe = {
 
 <table align=center>
   <td align=center width=1000>
-    <q>✰✰✰✰✰</q>
+    <q>✮✮✮✮✮</q>
   </td>
 </table>
 
