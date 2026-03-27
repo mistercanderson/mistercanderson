@@ -6,37 +6,25 @@
 
 <br>
 
-<table align=center>
-  <td width=334 align=center>
+<table align="center">
+  <td width="334" align="center">
     <h3>wassup ☺︎</h3>
   </td>
 </table>
-<h1 align=center> my name is <code>Chris</code> 🐸</h1>
+
+<h1 align="center">
+  i'm <code>chris</code> 🐸
+</h1>
 
 <br>
 
 ```ts
-const aboutMe: Record<string, string | string[]> = {
+const chris = {
   pronouns: 'he/him',
-  role: 'software developer',
+  role: 'software engineer',
   location: 'denver',
-  interests: ['music production', 'cooking', 'pickleball'],
+  uses: ['typescript', 'python'],
+  lately: ['tidal cycles', 'llms'],
+  interests: ['music', 'hoops', 'dad stuff'],
 };
 ```
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mistercanderson.mistercanderson)
-
-<!--
-**mistercanderson/mistercanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
